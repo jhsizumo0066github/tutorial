@@ -1,1 +1,5 @@
-TortoiseGit �V�K�ǉ�
+TortoiseGit 新規追加
+
+TortoiseGit UTF8 化ける
+
+http://bit.ly/6mc2ac#windows#git#tortoisegit
